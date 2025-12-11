@@ -1,2 +1,2 @@
 # sunaworld.github.io
-portfolio project for cal
+portfolio project for cla
